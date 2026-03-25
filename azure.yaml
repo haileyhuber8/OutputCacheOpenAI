@@ -2,7 +2,7 @@
 
 name: OutputCacheDallESample
 metadata:
-    template: azd-init@1.4.2
+    template: outputcacheopenai@1.4.2
 services:
     OutputCacheDallESample:
         project: OutputCacheDallESample
